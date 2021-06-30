@@ -9,13 +9,13 @@
 - ❌ Proibido desrespeitar ou insultar outros membros 
 - ❌ Pirataria: Serão banidos aqueles que solicitarem, fornecerem ou até apoiarem pirataria
 - ❌ Proibido imagens ou mensagens repetidas (floods)
-- ❌ Proibido conteúdo político (Esqueça o PT, Bolsonaro e afims) o negoço aqui é tecnologia.
+- ❌ Proibido conteúdo político (Esqueça o PT, Bolsonaro e afins) o negoço aqui é tecnologia.
 
 ## Ajudar o coleguinha buscar um Emprego.
 
 ### Requisitos para divulgação para vaga.
 
-✅ Enviar apenas uma vez a divulgação, evitando assim span.
+✅ Enviar apenas uma vez a divulgação, evitando assim spam.
 
 ✅ Título da vaga , exemplo: Analista Senior/PL/JR
 
