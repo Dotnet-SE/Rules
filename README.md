@@ -28,7 +28,7 @@ CLT, PJ, temporário, home office/remoto
 ✅ Local de Trabalho 
 Cidade / Região
 
-### Atenção
+### Presta Atenção meus caros!
 
 - 📣 Em caso de quebra das regras seu post poderá ser removido.
 - 📣 Em caso de spam e abuso nos chat será banido.
