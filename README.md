@@ -1,7 +1,7 @@
 ![Preto Roxo e Ciano Neon Noir  Vaporwave eSports Logotipo animado](https://user-images.githubusercontent.com/17841549/123956053-ab6caf00-d980-11eb-8ee5-52bdf43fd25e.gif)
 
 
-# [DotNet Brasil @ Telegram](https://t.me/dotnetse) 🌵 
+# [DotNet SE @ Telegram](https://t.me/dotnetse) 🌵 
 
 ## Probições meus caros ❌ 
 - ❌ Proibido qualquer forma de propaganda (inclusive sobre grupos e canais) que não se encaixem no tema de .NET **OU** que não tenham sido negociada com pelo menos um dos administradores do grupo
